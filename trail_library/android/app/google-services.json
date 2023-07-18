@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419594079624",
+    "project_id": "traillibrary-1460f",
+    "storage_bucket": "traillibrary-1460f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419594079624:android:534789890fed345ac0fe3d",
+        "android_client_info": {
+          "package_name": "com.example.trail_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419594079624-91jltfdjil9on2mjibas57tacik64dq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBIClSPcYl7CzooZT-ltPrMIa0m_XR0yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419594079624-91jltfdjil9on2mjibas57tacik64dq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
